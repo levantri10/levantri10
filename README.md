@@ -113,9 +113,22 @@ Building secure digital transaction solutions and backend infrastructure.
 
 ## 📫 Connect with Me
 
-- 📧 **Email:** [trilv2706@gmail.com](mailto:trilv2706@gmail.com)
-- 🌐 **Website:** https://kizetech.me
-- 💼 **LinkedIn:** https://www.linkedin.com/in/levantri10/
+<p>
+  <a href="mailto:trilv2706@gmail.com">
+    📧 Email
+  </a>
+  &nbsp;&nbsp;
+
+  <a href="https://kizetech.me">
+    🌐 Website
+  </a>
+  &nbsp;&nbsp;
+
+  <a href="https://www.linkedin.com/in/levantri10/">
+    <img src="https://cdn.simpleicons.org/linkedin/0A66C2" width="18" align="center"/>
+    LinkedIn
+  </a>
+</p>
 
 ---
 
