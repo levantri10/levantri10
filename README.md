@@ -97,28 +97,17 @@ Building secure digital transaction solutions and backend infrastructure.
 
 ---
 
-# 📊 GitHub Statistics
+## 📈 GitHub Activity
 
-<p align="center">
-
-<img height="170"
-src="https://github-readme-stats.vercel.app/api?username=levantri10&show_icons=true&hide_border=true"/>
-
-<img height="170"
-src="https://github-readme-stats.vercel.app/api/top-langs/?username=levantri10&layout=compact&hide_border=true"/>
-
-</p>
-
----
-
-# 📈 Contribution Graph
-
-<p align="center">
+<div align="center">
 
 <img
-src="https://github-readme-activity-graph.vercel.app/graph?username=levantri10"/>
+  width="100%"
+  src="https://github-readme-activity-graph.vercel.app/graph?username=levantri10&theme=github-compact&hide_border=true&area=true"
+  alt="Lê Văn Trí's GitHub activity graph"
+/>
 
-</p>
+</div>
 
 ---
 
