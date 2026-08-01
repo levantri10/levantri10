@@ -111,11 +111,11 @@ Building secure digital transaction solutions and backend infrastructure.
 
 ---
 
-# 📫 Contact
+## 📫 Connect with Me
 
-- 📧 trilv2706@gmail.com
-- 🌐 https://kizetech.me
-- 💼 https://github.com/levantri10
+- 📧 **Email:** [trilv2706@gmail.com](mailto:trilv2706@gmail.com)
+- 🌐 **Website:** https://kizetech.me
+- 💼 **LinkedIn:** https://www.linkedin.com/in/levantri10/
 
 ---
 
