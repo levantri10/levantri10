@@ -167,19 +167,6 @@ My focus is not only integrating AI models, but building the infrastructure arou
 
 ---
 
-## 📈 GitHub Activity
-
-<div align="center">
-
-<img
-width="100%"
-src="https://github-readme-activity-graph.vercel.app/graph?username=levantri10&theme=github-compact&hide_border=true&area=true"
-alt="Lê Văn Trí's GitHub activity graph"
-/>
-
-</div>
-
----
 
 ## 📫 Connect with Me
 
