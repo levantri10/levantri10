@@ -2,98 +2,168 @@
 
 # 👋 Hi, I'm Lê Văn Trí
 
-### AI Engineer • LLM Systems • Backend • Automation
+### AI Engineer • LLM API Infrastructure • Backend • Automation
 
-Building practical AI applications, scalable backend systems and developer workflows.
+Building AI infrastructure, model gateways, developer tooling, and scalable API systems.
 
-[🌐 Website](https://kizetech.me) •
-[🛍️ ShopAIPro](https://shopaipro.tech) •
-[🚀 DichVuThe](https://dichvuthe.app)
+[🛍️ SHOP AI PRO](https://shopaipro.tech) •
+[📚 Documentation](https://shopaipro.tech/docs) •
+[🤖 Models](https://shopaipro.tech/models) •
+[💲 API Pricing](https://shopaipro.tech/pricing)
 
 </div>
 
 ---
 
-# 🚀 About Me
+## 🚀 About Me
 
-I'm an AI Engineer focused on building production-ready AI systems.
+I'm an AI Engineer focused on building practical infrastructure around modern AI models and developer tools.
 
-My primary interests include:
+My work focuses on designing systems that connect developers and applications with multiple AI models through unified API infrastructure.
 
-- 🤖 Large Language Models (LLMs)
-- 🔧 AI Agent Architecture
-- 🧠 Prompt Engineering
-- 🔗 Tool Calling
-- 📚 Retrieval-Augmented Generation (RAG)
-- ⚡ Workflow Automation
-- ☁️ Cloud Deployment
-- 🐳 Containerized Applications
+I currently build and operate **SHOP AI PRO**, an AI API platform providing access to multiple model providers, API products, developer integrations, model pricing, usage management, and technical documentation.
 
-I enjoy designing systems where AI is not just a chatbot, but an actual component of software architecture.
+### What I work with
+
+* 🤖 Large Language Models (LLMs)
+* 🌐 LLM API Infrastructure
+* 🔀 Model Routing & API Gateways
+* 🧠 Prompt Engineering
+* 🔗 Tool Calling & Structured Outputs
+* 🦾 AI Agents
+* 📡 OpenAI-compatible APIs
+* ⚡ Developer Automation
+* 💳 API Usage & Pricing Systems
+* 🗄️ Backend & Database Systems
+* ☁️ Cloud Infrastructure
+* 🐳 Containerized Applications
+
+I enjoy building the infrastructure around AI — connecting models, APIs, developer tools, automation, and backend systems into products that people can actually use.
 
 ---
 
-# 💻 Tech Stack
+## 💻 Tech Stack
+
+<div align="center">
 
 ### Languages
 
-<p>
-<img src="https://skillicons.dev/icons?i=python,ts,js,sql"/>
-</p>
+<img src="https://skillicons.dev/icons?i=python,ts,js" alt="Languages" />
+
+<br/>
 
 ### Backend
 
-<p>
-<img src="https://skillicons.dev/icons?i=fastapi,nodejs"/>
-</p>
+<img src="https://skillicons.dev/icons?i=fastapi,nodejs" alt="Backend" />
 
-### AI Engineering
-
-- LLM Integration
-- Prompt Engineering
-- Tool Calling
-- Structured Outputs
-- AI Agents
-- Retrieval-Augmented Generation (RAG)
-- Model Context Protocol (MCP)
+<br/>
 
 ### Databases
 
-<p>
-<img src="https://skillicons.dev/icons?i=postgres,mysql,mongodb,redis"/>
-</p>
+<img src="https://skillicons.dev/icons?i=postgres,mysql,mongodb,redis" alt="Databases" />
+
+<br/>
 
 ### Cloud & DevOps
 
-<p>
-<img src="https://skillicons.dev/icons?i=docker,githubactions,cloudflare,vercel,gcp,azure,linux,git"/>
-</p>
+<img src="https://skillicons.dev/icons?i=docker,githubactions,cloudflare,vercel,gcp,azure,linux,git" alt="Cloud and DevOps" />
+
+</div>
+
+### AI & LLM Engineering
+
+<div align="center">
+
+`LLM APIs` •
+`API Gateways` •
+`Model Routing` •
+`Prompt Engineering`
+
+`Tool Calling` •
+`Structured Outputs` •
+`AI Agents` •
+`RAG`
+
+`MCP` •
+`OpenAI API` •
+`Anthropic API` •
+`Automation`
+
+</div>
 
 ---
 
-# 🌍 Projects
+## 🛍️ Featured Project — SHOP AI PRO
 
-## 🌐 KizeTech
+<div align="center">
 
-> Bilingual technology blog focused on AI Engineering, DevOps and Cloud.
+### AI API Platform & Developer Infrastructure
 
-🔗 https://kizetech.me
+[🌐 Website](https://shopaipro.tech) •
+[📚 Docs](https://shopaipro.tech/docs) •
+[🤖 Models](https://shopaipro.tech/models) •
+[💲 Pricing](https://shopaipro.tech/pricing)
 
----
+</div>
 
-## 🛒 ShopAIPro
+**SHOP AI PRO** is a platform for accessing, purchasing, and managing AI APIs and digital AI products through a centralized system.
 
-AI-powered platform and tools for modern creators and developers.
+The platform provides access to models from multiple AI providers while offering developer-friendly integrations, documentation, pricing, and usage management.
 
-🔗 https://shopaipro.tech
+### ⚙️ What I'm Building
 
----
+* 🌐 Unified AI API infrastructure
+* 🔀 Multi-model API routing
+* 🔑 API key access and usage management
+* 📊 Token-based usage and pricing systems
+* 🧠 Multi-provider model catalog
+* 💾 Input, output, and cache-aware pricing
+* 📚 Developer documentation and setup guides
+* ⚡ Automated developer installation workflows
+* 🖥️ CLI and desktop AI integrations
+* 🎨 Image generation and image editing APIs
 
-## 🔐 DichVuThe
+### 🤖 AI Ecosystem
 
-Building secure digital transaction solutions and backend infrastructure.
+The platform currently works with AI models and APIs across ecosystems including:
 
-🔗 https://dichvuthe.app
+* **OpenAI**
+* **Anthropic**
+* **Moonshot AI / Kimi**
+* **GPT Image**
+
+### 🔌 Developer Integrations
+
+SHOP AI PRO provides integrations and setup workflows for tools such as:
+
+* Codex CLI
+* Codex IDE / VS Code
+* Claude Code
+* Claude Desktop
+* OpenClaw
+* OpenAI-compatible applications
+* Anthropic Messages API compatible applications
+
+### 🏗️ Engineering Focus
+
+```text
+Applications / Developer Tools
+            │
+            ▼
+      SHOP AI PRO API
+            │
+     ┌──────┼──────┐
+     ▼      ▼      ▼
+  OpenAI Anthropic Kimi
+     │      │      │
+     └──────┼──────┘
+            ▼
+   Models & AI Services
+```
+
+My focus is not only integrating AI models, but building the infrastructure around them:
+
+**routing → authentication → usage tracking → pricing → developer integration → deployment → documentation**
 
 ---
 
@@ -102,9 +172,9 @@ Building secure digital transaction solutions and backend infrastructure.
 <div align="center">
 
 <img
-  width="100%"
-  src="https://github-readme-activity-graph.vercel.app/graph?username=levantri10&theme=github-compact&hide_border=true&area=true"
-  alt="Lê Văn Trí's GitHub activity graph"
+width="100%"
+src="https://github-readme-activity-graph.vercel.app/graph?username=levantri10&theme=github-compact&hide_border=true&area=true"
+alt="Lê Văn Trí's GitHub activity graph"
 />
 
 </div>
@@ -113,27 +183,19 @@ Building secure digital transaction solutions and backend infrastructure.
 
 ## 📫 Connect with Me
 
-<p>
-  <a href="mailto:trilv2706@gmail.com">
-    📧 Email
-  </a>
-  &nbsp;&nbsp;
+<div align="center">
 
-  <a href="https://kizetech.me">
-    🌐 Website
-  </a>
-  &nbsp;&nbsp;
+<a href="mailto:trilv2706@gmail.com">📧 Email</a>
+  •   <a href="https://shopaipro.tech">🛍️ SHOP AI PRO</a>
+  •   <a href="https://www.linkedin.com/in/levantri10/"> <img src="https://cdn.simpleicons.org/linkedin/0A66C2" width="18" align="center" alt="LinkedIn"/>
+LinkedIn </a>
 
-  <a href="https://www.linkedin.com/in/levantri10/">
-    <img src="https://cdn.simpleicons.org/linkedin/0A66C2" width="18" align="center"/>
-    LinkedIn
-  </a>
-</p>
+</div>
 
 ---
 
 <div align="center">
 
-*"Building AI that solves real-world problems."*
+### *"Building the infrastructure that connects developers with AI."*
 
 </div>
