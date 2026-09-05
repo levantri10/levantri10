@@ -174,8 +174,7 @@ My focus is not only integrating AI models, but building the infrastructure arou
 
 <a href="mailto:trilv2706@gmail.com">📧 Email</a>
   •   <a href="https://shopaipro.tech">🛍️ SHOP AI PRO</a>
-  •   <a href="https://www.linkedin.com/in/levantri10/"> <img src="https://cdn.simpleicons.org/linkedin/0A66C2" width="18" align="center" alt="LinkedIn"/>
-LinkedIn </a>
+  •   <a href="https://www.linkedin.com/in/levantri10/"> LinkedIn </a>
 
 </div>
 
