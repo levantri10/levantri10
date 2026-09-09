@@ -1,21 +1,21 @@
 <div align="center">
 
-# 👋 Hi, I'm Lê Văn Trí
+# Hi, I'm Lê Văn Trí
 
 ### AI Engineer • LLM API Infrastructure • Backend • Automation
 
 Building AI infrastructure, model gateways, developer tooling, and scalable API systems.
 
-[🛍️ SHOP AI PRO](https://shopaipro.tech) •
-[📚 Documentation](https://shopaipro.tech/docs) •
-[🤖 Models](https://shopaipro.tech/models) •
-[💲 API Pricing](https://shopaipro.tech/pricing)
+[SHOP AI PRO](https://shopaipro.tech) •
+[Documentation](https://shopaipro.tech/docs) •
+[Models](https://shopaipro.tech/models) •
+[API Pricing](https://shopaipro.tech/pricing)
 
 </div>
 
 ---
 
-## 🚀 About Me
+## About Me
 
 I'm an AI Engineer focused on building practical infrastructure around modern AI models and developer tools.
 
@@ -25,18 +25,18 @@ I currently build and operate **SHOP AI PRO**, an AI API platform providing acce
 
 ### What I work with
 
-* 🤖 Large Language Models (LLMs)
-* 🌐 LLM API Infrastructure
-* 🔀 Model Routing & API Gateways
-* 🧠 Prompt Engineering
-* 🔗 Tool Calling & Structured Outputs
-* 🦾 AI Agents
-* 📡 OpenAI-compatible APIs
-* ⚡ Developer Automation
-* 💳 API Usage & Pricing Systems
-* 🗄️ Backend & Database Systems
-* ☁️ Cloud Infrastructure
-* 🐳 Containerized Applications
+* Large Language Models (LLMs)
+* LLM API Infrastructure
+* Model Routing & API Gateways
+* Prompt Engineering
+* Tool Calling & Structured Outputs
+* AI Agents
+* OpenAI-compatible APIs
+* Developer Automation
+* API Usage & Pricing Systems
+* Backend & Database Systems
+* Cloud Infrastructure
+* Containerized Applications
 
 I enjoy building the infrastructure around AI — connecting models, APIs, developer tools, automation, and backend systems into products that people can actually use.
 
