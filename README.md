@@ -177,11 +177,3 @@ My focus is not only integrating AI models, but building the infrastructure arou
   •   <a href="https://www.linkedin.com/in/levantri10/"> LinkedIn </a>
 
 </div>
-
----
-
-<div align="center">
-
-### *"Building the infrastructure that connects developers with AI."*
-
-</div>
