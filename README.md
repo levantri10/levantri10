@@ -1,6 +1,6 @@
 <div align="center">
 
-# Hi, I'm Lê Văn Trí
+# Hi, I'm Lê Văn Trí - UNIVERSITY OF TRANSPORT HO CHI MINH CITY
 
 ### AI Engineer • LLM API Infrastructure • Backend • Automation
 
