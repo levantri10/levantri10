@@ -2,7 +2,7 @@
 
 # Hi, I'm Lê Văn Trí
 
-### AI Engineer • LLM API Infrastructure • Backend • Automation
+### AI Engineer • LLM API Infrastructure • Automation
 
 Building AI infrastructure, model gateways, developer tooling, and scalable API systems.
 
