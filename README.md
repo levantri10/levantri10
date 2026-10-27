@@ -5,6 +5,7 @@
 ### AI Engineer • LLM API Infrastructure • Automation
 
 Building AI infrastructure, model gateways, developer tooling, and scalable API systems.
+
 [SHOP AI PRO](https://shopaipro.tech) •
 [Documentation](https://shopaipro.tech/docs) •
 [Models](https://shopaipro.tech/models) •
