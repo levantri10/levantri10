@@ -149,20 +149,7 @@ SHOP AI PRO provides integrations and setup workflows for tools such as:
 * Anthropic Messages API compatible applications
 
 ### 🏗️ Engineering Focus
-
-```text
-Applications / Developer Tools
-            │
-            ▼
-      SHOP AI PRO API
-            │
-     ┌──────┼──────┐
-     ▼      ▼      ▼
-  OpenAI Anthropic Kimi
-     │      │      │
-     └──────┼──────┘
-            ▼
-   Models & AI Services
+<img width="2171" height="724" alt="image" src="https://github.com/user-attachments/assets/0aa14bb1-d8e5-4e16-91c4-0d831c8e64bb" />
 ```
 
 My focus is not only integrating AI models, but building the infrastructure around them:
