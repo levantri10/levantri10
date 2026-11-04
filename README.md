@@ -1,6 +1,6 @@
 <div align="center">
 
-# Hi, I'm Lê Văn Trí
+# I'm Lê Văn Trí
 
 ### AI Engineer • LLM API Infrastructure • Automation
 
