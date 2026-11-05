@@ -1,170 +1,95 @@
 <div align="center">
 
-# I'm Lê Văn Trí
+<img src="assets/profile-banner.svg" alt="Lê Văn Trí — Building useful AI products" width="100%">
 
-### AI Engineer • LLM API Infrastructure • Automation
+# Hi, I'm Lê Văn Trí
 
-Building AI infrastructure, model gateways, developer tooling, and scalable API systems.
+**AI applications · API platforms · Backend development**
 
-[SHOP AI PRO](https://shopaipro.tech) •
-[Documentation](https://shopaipro.tech/docs) •
-[Models](https://shopaipro.tech/models) •
-[API Pricing](https://shopaipro.tech/pricing)
+I build practical products that connect AI models, reliable data, and clear user experiences.
 
-</div>
-
----
-    
-## About Me
-
-I'm an AI Engineer focused on building practical infrastructure around modern AI models and developer tools.
-
-My work focuses on designing systems that connect developers and applications with multiple AI models through unified API infrastructure.
-
-I currently build and operate **SHOP AI PRO**, an AI API platform providing access to multiple model providers, API products, developer integrations, model pricing, usage management, and technical documentation.
-
-<small><i>
-Using AI agents at the lowest possible cost while achieving maximum work efficiency.
-That's what my job is really about.
-</i></small>
-### What I work with
-
-* Large Language Models (LLMs)
-* LLM API Infrastructure
-* Model Routing & API Gateways
-* Prompt Engineering
-* Tool Calling & Structured Outputs
-* AI Agents
-* OpenAI-compatible APIs
-* Developer Automation
-* API Usage & Pricing Systems
-* Backend & Database Systems
-* Cloud Infrastructure
-* Containerized Applications
-
-I enjoy building the infrastructure around AI — connecting models, APIs, developer tools, automation, and backend systems into products that people can actually use.
-
----
-
-## 💻 Tech Stack
-
-<div align="center">
-
-### Languages
-
-<img src="https://skillicons.dev/icons?i=python,ts,js" alt="Languages" />
-
-<br/>
-
-### Backend
-
-<img src="https://skillicons.dev/icons?i=fastapi,nodejs" alt="Backend" />
-
-<br/>
-
-### Databases
-
-<img src="https://skillicons.dev/icons?i=postgres,mysql,mongodb,redis" alt="Databases" />
-
-<br/>
-
-### Cloud & DevOps
-
-<img src="https://skillicons.dev/icons?i=docker,githubactions,cloudflare,vercel,gcp,azure,linux,git" alt="Cloud and DevOps" />
-
-</div>
-
-### AI & LLM Engineering
-
-<div align="center">
-
-`LLM APIs` •
-`API Gateways` •
-`Model Routing` •
-`Prompt Engineering`
-
-`Tool Calling` •
-`Structured Outputs` •
-`AI Agents` •
-`RAG`
-
-`MCP` •
-`OpenAI API` •
-`Anthropic API` •
-`Automation`
+[SHOP AI PRO](https://shopaipro.tech) · [Thư Viện AI](https://chatbot-library-jet.vercel.app) · [My projects](#selected-projects) · [Contact](#lets-connect)
 
 </div>
 
 ---
 
-## 🛍️ Featured Project — SHOP AI PRO
+## About me
+
+My work sits between **AI integration, backend systems, and product development**. I enjoy turning an idea into something people can open, use, and inspect — with working APIs, a usable interface, and documentation that matches the implementation.
+
+My two featured projects are **SHOP AI PRO**, an AI service platform, and **Thư Viện AI**, a Vietnamese library assistant with source-grounded answers.
+
+## Selected projects
+
+<table>
+<tr>
+<td width="50%" align="center" valign="top">
+<br>
+<a href="https://shopaipro.tech"><img src="assets/shopaipro-logo.svg" alt="SHOP AI PRO official logo" width="96" height="96"></a>
+<h3>SHOP AI PRO</h3>
+<strong>AI services &amp; API access platform</strong>
+<p>Storefront, API key access, credit and usage management, model routing, and developer setup guides.</p>
+<p><a href="https://shopaipro.tech"><strong>Visit website ↗</strong></a> · <a href="https://github.com/levantri10/shopaipro-overview">Project overview</a></p>
+<p><a href="https://shopaipro.tech/docs">Documentation</a> · <a href="https://shopaipro.tech/models">Models</a></p>
+<p><code>Go</code> <code>Next.js</code> <code>TypeScript</code><br><code>PostgreSQL</code> <code>Redis</code> <code>Docker</code></p>
+<br>
+</td>
+<td width="50%" align="center" valign="top">
+<br>
+<a href="https://chatbot-library-jet.vercel.app"><img src="assets/library-ai-logo.svg" alt="Thư Viện AI — Tri thức đối thoại" width="96" height="96"></a>
+<h3>Thư Viện AI</h3>
+<strong>Vietnamese library assistant</strong>
+<p>Find books, check stock, and ask about library information. Answers link back to retrieved sources, with direct lookup when AI is unavailable.</p>
+<p><a href="https://chatbot-library-jet.vercel.app"><strong>Try live demo ↗</strong></a> · <a href="https://github.com/levantri10/ChatBot_Library">Repository</a></p>
+<p><a href="https://github.com/levantri10/ChatBot_Library#readme">Setup &amp; documentation</a></p>
+<p><code>JavaScript</code> <code>Vite</code> <code>Node.js</code><br><code>Supabase</code> <code>PostgreSQL</code> <code>Vercel</code></p>
+<br>
+</td>
+</tr>
+</table>
+
+### What each project demonstrates
+
+| | SHOP AI PRO | Thư Viện AI |
+| --- | --- | --- |
+| **Product focus** | AI service access and account resources | Library questions and book discovery |
+| **Backend work** | Domain services, key access, credit and usage | Chat API, retrieval and catalog administration |
+| **AI integration** | Model gateway and provider routing | nemotron-super with retrieved library context |
+| **Public access** | Website, docs and an overview repository | Live demo and application repository |
+| **Scope** | Overview is public; source code is private | Demo uses sample data and keyword retrieval |
+
+The library assistant supports optional vector embeddings in the code; its current demo uses **keyword retrieval**, with citations and an explicit fallback. Its inventory and opening hours are illustrative, not official library records.
+
+## Tools behind these projects
 
 <div align="center">
 
-### AI API Platform & Developer Infrastructure
-
-[🌐 Website](https://shopaipro.tech) •
-[📚 Docs](https://shopaipro.tech/docs) •
-[🤖 Models](https://shopaipro.tech/models) •
-[💲 Pricing](https://shopaipro.tech/pricing)
+<img src="https://skillicons.dev/icons?i=go,ts,js,nodejs,nextjs,react,postgres,redis,docker,git,vercel,cloudflare&amp;perline=6" alt="Go, TypeScript, JavaScript, Node.js, Next.js, React, PostgreSQL, Redis, Docker, Git, Vercel and Cloudflare">
 
 </div>
 
-**SHOP AI PRO** is a platform for accessing, purchasing, and managing AI APIs and digital AI products through a centralized system.
+| Area | What I work on |
+| --- | --- |
+| **AI integration** | Model APIs, gateway integration, retrieval and grounded responses |
+| **Backend &amp; data** | API design, authentication, validation, credit/usage and relational data |
+| **Product interfaces** | Storefronts, dashboards, chat interfaces and responsive layouts |
+| **Delivery** | Containerized services, serverless deployments, testing and documentation |
 
-The platform provides access to models from multiple AI providers while offering developer-friendly integrations, documentation, pricing, and usage management.
+## How I approach a project
 
-### ⚙️ What I'm Building
+**Understand the user → connect the data → build the flow → test the behavior → deploy → document.**
 
-* 🌐 Unified AI API infrastructure
-* 🔀 Multi-model API routing
-* 🔑 API key access and usage management
-* 📊 Token-based usage and pricing systems
-* 🧠 Multi-provider model catalog
-* 💾 Input, output, and cache-aware pricing
-* 📚 Developer documentation and setup guides
-* ⚡ Automated developer installation workflows
-* 🖥️ CLI and desktop AI integrations
-* 🎨 Image generation and image editing APIs
+I use AI tools to support development while keeping implementation details, limitations, and verification results clear. I care about products that work beyond a screenshot.
 
-### 🤖 AI Ecosystem
-
-The platform currently works with AI models and APIs across ecosystems including:
-
-* **OpenAI**
-* **Anthropic**
-* **Moonshot AI / Kimi**
-* **GPT Image**
-
-### 🔌 Developer Integrations
-
-SHOP AI PRO provides integrations and setup workflows for tools such as:
-
-* Codex CLI
-* Codex IDE / VS Code
-* Claude Code
-* Claude Desktop
-* OpenClaw
-* OpenAI-compatible applications
-* Anthropic Messages API compatible applications
-
-### 🏗️ Engineering Focus
-<img width="2171" height="724" alt="image" src="https://github.com/user-attachments/assets/0aa14bb1-d8e5-4e16-91c4-0d831c8e64bb" />
-
-
-My focus is not only integrating AI models, but building the infrastructure around them:
-
-**routing → authentication → usage tracking → pricing → developer integration → deployment → documentation**
-
----
-
-
-## 📫 Connect with Me
+## Let's connect
 
 <div align="center">
 
-<a href="mailto:trilv2706@gmail.com">📧 Email</a>
-  •   <a href="https://shopaipro.tech">🛍️ SHOP AI PRO</a>
-  •   <a href="https://www.linkedin.com/in/levantri10/"> LinkedIn </a>
+[Email](mailto:trilv2706@gmail.com) · [LinkedIn](https://www.linkedin.com/in/levantri10/) · [SHOP AI PRO](https://shopaipro.tech) · [Thư Viện AI demo](https://chatbot-library-jet.vercel.app)
+
+<br>
+
+<sub>Two projects. One focus: useful AI products with clear interfaces and dependable data.</sub>
 
 </div>
