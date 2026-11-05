@@ -18,10 +18,10 @@ My work sits between **AI integration, backend systems, and product development*
 
 My two featured projects are **SHOP AI PRO**, an AI service platform, and **Library AI**, a Vietnamese library assistant with source-grounded answers.
 
-<small><i>
+<sub><i>
 Using AI agents at the lowest possible cost while achieving maximum work efficiency.<br>
 That's what my job is really about.
-</i></small>
+</i></sub>
 
 ## Selected projects
 
