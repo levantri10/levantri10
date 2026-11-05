@@ -1,0 +1,14 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="300" viewBox="0 0 1200 300" role="img" aria-labelledby="title desc">
+<title id="title">Lê Văn Trí — Building useful AI products</title><desc id="desc">A personal portfolio connecting AI services, data and usable interfaces.</desc>
+<defs><linearGradient id="bg" x1="0" y1="0" x2="1" y2="1"><stop stop-color="#101F33"/><stop offset="1" stop-color="#0A1723"/></linearGradient><linearGradient id="line"><stop stop-color="#489CFF"/><stop offset="1" stop-color="#A5C9A1"/></linearGradient></defs>
+<rect x="1" y="1" width="1198" height="298" rx="26" fill="url(#bg)" stroke="#28405A"/>
+<path d="M900 0V300M1000 0V300M1100 0V300M870 65H1200M870 150H1200M870 235H1200" stroke="#234054" opacity=".25"/>
+<circle cx="1080" cy="145" r="85" fill="none" stroke="#3B677C" opacity=".5"/><circle cx="1080" cy="145" r="56" fill="none" stroke="#3B677C" opacity=".7"/>
+<path d="M1037 151L1070 119L1104 150L1071 183L1037 151Z" fill="none" stroke="url(#line)" stroke-width="3"/><circle cx="1037" cy="151" r="6" fill="#489CFF"/><circle cx="1070" cy="119" r="6" fill="#A5C9A1"/><circle cx="1104" cy="150" r="6" fill="#489CFF"/><circle cx="1071" cy="183" r="6" fill="#A5C9A1"/>
+<text x="54" y="56" fill="#A3B7CA" font-family="Segoe UI,Arial,sans-serif" font-size="15" letter-spacing="3">LÊ VĂN TRÍ / AI &amp; SOFTWARE</text>
+<text x="52" y="127" fill="#F2F6FB" font-family="Segoe UI,Arial,sans-serif" font-weight="700" font-size="43">Building useful AI products.</text>
+<text x="54" y="170" fill="#B1C4D5" font-family="Segoe UI,Arial,sans-serif" font-size="21">APIs, data, and interfaces — connected end to end.</text>
+<rect x="54" y="221" width="192" height="34" rx="17" fill="#162E49" stroke="#315782"/><text x="72" y="243" fill="#9EC7FF" font-family="Segoe UI,Arial,sans-serif" font-size="13" letter-spacing="1">01 / SHOP AI PRO</text>
+<rect x="260" y="221" width="198" height="34" rx="17" fill="#18382F" stroke="#3D6655"/><text x="278" y="243" fill="#C8D9AA" font-family="Segoe UI,Arial,sans-serif" font-size="13" letter-spacing="1">02 / THƯ VIỆN AI</text>
+<path d="M487 238H828" stroke="url(#line)" stroke-width="2" opacity=".6"/><circle cx="837" cy="238" r="4" fill="#A5C9A1"/>
+</svg>
