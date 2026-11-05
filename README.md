@@ -1,14 +1,12 @@
 <div align="center">
 
-<img src="assets/profile-banner.svg" alt="Lê Văn Trí — Building useful AI products" width="100%">
-
-# Hi, I'm Lê Văn Trí
+<img src="assets/profile-banner.gif" alt="Lê Văn Trí — AI Engineering, API Infrastructure and Automation" width="100%">
 
 **AI applications · API platforms · Backend development**
 
 I build practical products that connect AI models, reliable data, and clear user experiences.
 
-[SHOP AI PRO](https://shopaipro.tech) · [Thư Viện AI](https://chatbot-library-jet.vercel.app) · [My projects](#selected-projects) · [Contact](#lets-connect)
+[SHOP AI PRO](https://shopaipro.tech) · [Library AI](https://chatbot-library-jet.vercel.app) · [My projects](#selected-projects) · [Contact](#lets-connect)
 
 </div>
 
@@ -18,7 +16,12 @@ I build practical products that connect AI models, reliable data, and clear user
 
 My work sits between **AI integration, backend systems, and product development**. I enjoy turning an idea into something people can open, use, and inspect — with working APIs, a usable interface, and documentation that matches the implementation.
 
-My two featured projects are **SHOP AI PRO**, an AI service platform, and **Thư Viện AI**, a Vietnamese library assistant with source-grounded answers.
+My two featured projects are **SHOP AI PRO**, an AI service platform, and **Library AI**, a Vietnamese library assistant with source-grounded answers.
+
+<small><i>
+Using AI agents at the lowest possible cost while achieving maximum work efficiency.<br>
+That's what my job is really about.
+</i></small>
 
 ## Selected projects
 
@@ -37,8 +40,8 @@ My two featured projects are **SHOP AI PRO**, an AI service platform, and **Thư
 </td>
 <td width="50%" align="center" valign="top">
 <br>
-<a href="https://chatbot-library-jet.vercel.app"><img src="assets/library-ai-logo.svg" alt="Thư Viện AI — Tri thức đối thoại" width="96" height="96"></a>
-<h3>Thư Viện AI</h3>
+<a href="https://chatbot-library-jet.vercel.app"><img src="assets/library-ai-logo.svg" alt="Library AI — Knowledge in conversation" width="96" height="96"></a>
+<h3>Library AI</h3>
 <strong>Vietnamese library assistant</strong>
 <p>Find books, check stock, and ask about library information. Answers link back to retrieved sources, with direct lookup when AI is unavailable.</p>
 <p><a href="https://chatbot-library-jet.vercel.app"><strong>Try live demo ↗</strong></a> · <a href="https://github.com/levantri10/ChatBot_Library">Repository</a></p>
@@ -51,7 +54,7 @@ My two featured projects are **SHOP AI PRO**, an AI service platform, and **Thư
 
 ### What each project demonstrates
 
-| | SHOP AI PRO | Thư Viện AI |
+| | SHOP AI PRO | Library AI |
 | --- | --- | --- |
 | **Product focus** | AI service access and account resources | Library questions and book discovery |
 | **Backend work** | Domain services, key access, credit and usage | Chat API, retrieval and catalog administration |
@@ -86,7 +89,7 @@ I use AI tools to support development while keeping implementation details, limi
 
 <div align="center">
 
-[Email](mailto:trilv2706@gmail.com) · [LinkedIn](https://www.linkedin.com/in/levantri10/) · [SHOP AI PRO](https://shopaipro.tech) · [Thư Viện AI demo](https://chatbot-library-jet.vercel.app)
+[Email](mailto:trilv2706@gmail.com) · [LinkedIn](https://www.linkedin.com/in/levantri10/) · [SHOP AI PRO](https://shopaipro.tech) · [Library AI demo](https://chatbot-library-jet.vercel.app)
 
 <br>
 
