@@ -2,7 +2,7 @@
 
 <img src="assets/profile-banner.gif" alt="Lê Văn Trí — AI Engineering, API Infrastructure and Automation" width="100%">
 
-**AI applications · API platforms · Backend development**
+AI applications · API platforms · Backend development
 
 I build practical products that connect AI models, reliable data, and clear user experiences.
 
