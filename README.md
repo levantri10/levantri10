@@ -3,7 +3,7 @@
 <img src="assets/profile-banner.gif" alt="Lê Văn Trí — AI Engineering, API Infrastructure and Automation" width="100%">
 
 AI applications · API platforms · Backend development
-
+<iframe width="1337" height="752" src="https://www.youtube.com/embed/8uRJVDBK7l0?list=RDGMEMYH9CUrFO7CfLJpaD7UR85wVM8uRJVDBK7l0" title="DJ YA ODNA X ONE DAY BREAKBEAT REMIX FULL BEAT TERBARU 2023" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 I build practical products that connect AI models, reliable data, and clear user experiences.
 
 [SHOP AI PRO](https://shopaipro.tech) · [Library AI](https://chatbot-library-jet.vercel.app) · [My projects](#selected-projects) · [Contact](#lets-connect)
