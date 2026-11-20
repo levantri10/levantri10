@@ -51,7 +51,7 @@ That's what my job is really about.
 <tr>
 <td colspan="2" align="center">
 <br>
-<a href="https://kizetech.me/en/"><img src="assets/kizetech.png" alt="KizeTech" width="64" height="64"></a>
+<a href="https://kizetech.me/en/"><img src="assets/kizetech.png" alt="KizeTech" width="96" height="96"></a>
 <h3>KizeTech</h3>
 <strong>Bilingual technology publication</strong>
 <p>I write about developer tools, model pricing and the decisions behind AI workflows. Each edition has its own article URLs and links to the available translations.</p>
