@@ -104,4 +104,3 @@ I use AI tools to support development while keeping implementation details, limi
 
 
 </div>
-https://x.com/buininhpy/status/2123666905307525550?a=3C_z3E_cwK0mEpurI58&s=19
