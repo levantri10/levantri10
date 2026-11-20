@@ -4,7 +4,7 @@
 
 
 
-[SHOP AI PRO](https://shopaipro.tech) · [Library AI](https://chatbot-library-jet.vercel.app) · [My projects](#selected-projects) · [Contact](#lets-connect)
+[SHOP AI PRO](https://shopaipro.tech) · [Library AI](https://chatbot-library-jet.vercel.app) · [KizeTech](https://kizetech.me/en/) · [My projects](#selected-projects) · [Contact](#lets-connect)
 
 </div>
 
@@ -14,7 +14,7 @@
 
 My work sits between **AI integration, backend systems, and product development**. I enjoy turning an idea into something people can open, use, and inspect — with working APIs, a usable interface, and documentation that matches the implementation.
 
-My two featured projects are **SHOP AI PRO**, an AI service platform, and **Library AI**, a Vietnamese library assistant with source-grounded answers.
+I build **SHOP AI PRO**, an AI service platform, and **Library AI**, a Vietnamese library assistant with source-grounded answers. I also publish **KizeTech**, a technology blog in Vietnamese and English.
 
 <sub><i>
 Using AI agents at the lowest possible cost while achieving maximum work efficiency.<br>
@@ -48,9 +48,22 @@ That's what my job is really about.
 <br>
 </td>
 </tr>
+<tr>
+<td colspan="2" align="center">
+<br>
+<a href="https://kizetech.me/en/"><img src="assets/kizetech.png" alt="KizeTech" width="64" height="64"></a>
+<h3>KizeTech</h3>
+<strong>Bilingual technology publication</strong>
+<p>I write about developer tools, model pricing and the decisions behind AI workflows. Each edition has its own article URLs and links to the available translations.</p>
+<p><a href="https://kizetech.me/en/"><strong>Read in English ↗</strong></a> · <a href="https://kizetech.me/vi/"><strong>Đọc tiếng Việt ↗</strong></a></p>
+<p><a href="https://kizetech.me/en/author">Author profile</a> · <a href="https://kizetech.me/vi/author">Hồ sơ tác giả</a></p>
+<p><code>Astro</code> <code>TypeScript</code> <code>Vercel</code></p>
+<br>
+</td>
+</tr>
 </table>
 
-### What each project demonstrates
+### Inside the two AI products
 
 | | SHOP AI PRO | Library AI |
 | --- | --- | --- |
@@ -87,10 +100,7 @@ I use AI tools to support development while keeping implementation details, limi
 
 <div align="center">
 
-[Email](mailto:trilv2706@gmail.com) · [LinkedIn](https://www.linkedin.com/in/levantri10/) · [SHOP AI PRO](https://shopaipro.tech) · [Library AI demo](https://chatbot-library-jet.vercel.app)
+[Email](mailto:trilv2706@gmail.com) · [LinkedIn](https://www.linkedin.com/in/levantri10/) · [SHOP AI PRO](https://shopaipro.tech) · [Library AI demo](https://chatbot-library-jet.vercel.app) · [KizeTech author profile](https://kizetech.me/en/author)
 
-<br>
-
-<sub>Two projects. One focus: useful AI products with clear interfaces and dependable data.</sub>
 
 </div>
